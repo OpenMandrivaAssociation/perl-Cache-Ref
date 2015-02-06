@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	4
+Release:	5
 
 Summary:	This module implements in memory caching
 License:    GPL+ or Artistic
